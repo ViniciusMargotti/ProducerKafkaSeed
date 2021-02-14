@@ -1,0 +1,5 @@
+com/vinicius/springkafka/Producers/OrderProducer.class
+com/vinicius/springkafka/Resources/OrderController.class
+com/vinicius/springkafka/Resources/OrderRecordController.class
+com/vinicius/springkafka/Producers/OrderRecordProducer.class
+com/vinicius/springkafka/SpringkafkaApplication.class
